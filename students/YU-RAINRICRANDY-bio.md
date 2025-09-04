@@ -1,4 +1,4 @@
 - Year/Section: 4th Year / G2
 - Favorite Language: Java
-- One Git Tip Learned: Manko Suki
+- One Git Tip Learned: Dont commimt too early
 - GitHub: @Gideon1274
